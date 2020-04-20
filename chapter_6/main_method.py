@@ -11,4 +11,4 @@ def get_handle():
 if __name__ == '__main__':
   get_handle()
 
-# We import this module in 
+# We import this module in some_other_file.py.
