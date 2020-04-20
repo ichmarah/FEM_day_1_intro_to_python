@@ -100,7 +100,7 @@ celerybeat-schedule
 # Environments
 .env
 .venv
-env/
+/env/
 venv/
 ENV/
 env.bak/
@@ -125,7 +125,7 @@ dmypy.json
 .pyre/
 
 # VS Code Settings
-.vscode/
+/.vscode/
 
 
 #### MacOs Section
