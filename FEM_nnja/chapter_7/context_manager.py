@@ -10,6 +10,7 @@ with open("FEM_nnja/chapter_7/cities.json") as cities_files:
   cities_data = json.load(cities_files)
   print(cities_data)
   # breakpoint() #is used to debug instead of print(). In terminal you can interact with it. Prompt starts with (Pdb)
+  # Remove breakpoint() in production
   # e.g., city= cities_data[0] and then call the keys from that city
 
 # Prints out: 
