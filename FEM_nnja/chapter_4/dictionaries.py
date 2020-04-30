@@ -13,3 +13,4 @@ print(eggs.get('age', 0))
 eggs.setdefault('color', 'orange')
 print(eggs)  # now 'color': 'orange' is added to the dict.
 # If we call setdefault('color', 'orange'), nothing happens becuase color is already set.
+
