@@ -2,7 +2,6 @@
 
 import json
 
-
 def main():
     with open("FEM_nnja/chapter_7/cities.json") as cities_files:
         try:
