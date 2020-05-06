@@ -45,4 +45,4 @@ pprint(f"The 10 URLs: {response_params_json}")
 #  "'https://cdn.shibe.online/shibes/1cb298abd56991f703ae916f624963f8a4c116b8.jpg', "
 #  "'https://cdn.shibe.online/shibes/d8c72c4ce25367119898f584b555e4d6fc42f3b9.jpg', "
 #  "'https://cdn.shibe.online/shibes/0881d5d0096b596f3958248646c7a0cdec22f8cb.jpg', "
-#  "'https://cdn.shibe.online/shibes/f98bd3f81b40fca0bcfb6c055bda2ef244e5d290.jpg'] \n")
+#  "'https://cdn.shibe.online/shibes/f98bd3f81b40fca0bcfb6c055bda2ef244e5d290.jpg']")
