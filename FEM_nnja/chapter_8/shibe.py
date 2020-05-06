@@ -33,7 +33,7 @@ print(
     f"Status code when requested data does not exist: {bad_request.status_code} \n")
 
 # Print the URLs
-pprint(f"The 10 URLs: {response_params_json} \n")
+pprint(f"The 10 URLs: {response_params_json}")
 # Prints -->
 # ('The 10 URLs: '
 #  "['https://cdn.shibe.online/shibes/d436b97f374c0caca93b279317a2d95f16b7d86a.jpg', "
