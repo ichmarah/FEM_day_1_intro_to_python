@@ -125,7 +125,7 @@ dmypy.json
 .pyre/
 
 # VS Code Settings
-/.vscode/
+FEM_nnja/day_1_intro/.vscode
 
 
 #### MacOs Section
