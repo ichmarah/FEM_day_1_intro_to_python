@@ -4,7 +4,7 @@
 
 ## About
 
-This repo includes small exercises in Python and my personal notes. I have a basic knowledge of Python and due to COVID-19 crisis, I decided to make use of this period to deep dive into Python.
+This repo includes small exercises in Python and my personal notes. Since we are in lockdown due to COVID-19, I decided to make use of this moment to pick-up Python again.
 
 ## Resources used
 
