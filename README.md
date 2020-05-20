@@ -9,7 +9,7 @@ This repo includes small exercises in Python and my personal notes. Since we are
 ## Resources used
 
 - I used [Nina Zakharenko's intro and intermediate course on Python](https://www.learnpython.dev/01-introduction/) as a start.
-- Additionally, the Youtube series by Microsoft Developers also came in handy:
-  - ['Python for Beginners'](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
-  - ['More Python for Beginners'](https://www.youtube.com/watch?v=xYDnHi0u6_c&list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)
-  - ['Even More Python for Beginners: Data Tools'](https://www.youtube.com/watch?v=D8OaGUYkHTE&list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-)
+- Additionally, the Youtube series by Microsoft Developer also came in handy:
+  - [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+  - [More Python for Beginners](https://www.youtube.com/watch?v=xYDnHi0u6_c&list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj)
+  - [Even More Python for Beginners: Data Tools](https://www.youtube.com/watch?v=D8OaGUYkHTE&list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-)
