@@ -1,4 +1,5 @@
 # ============================ self  ===========================
+# Self is a reference to the new object that is being created, my_car or my_other_car
 
 
 class Car():
@@ -26,4 +27,3 @@ my_car.start()
 my_other_car = Car()
 my_other_car.start()
 # The car is broken. --> Because this is another instance of Car() and refers to rhe original runs boolean False
-
