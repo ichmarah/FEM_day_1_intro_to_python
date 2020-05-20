@@ -1,4 +1,4 @@
-# ============================ self  ===========================
+# ============================ self  ==========================
 # Self is a reference to the new object that is being created, my_car or my_other_car
 
 
